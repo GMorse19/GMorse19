@@ -1,9 +1,5 @@
 ### GMorse19
 
-I am currently working, collaboratively, on a small mobile app aimed at helping patients with Parkinson's disease. **(React.js, React Native, and C#)**
-
-Most of my experience is building with **JavaScript**, **React.js**, and **Ruby on Rails**.
-
 [Portfolio](https://gmorse19.github.io/)
 [LinkedIn](https://www.linkedin.com/in/geoff-morse19/)
 
