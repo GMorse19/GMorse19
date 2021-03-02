@@ -2,7 +2,7 @@
 
 I am currently working, collaboratively, on a small mobile app aimed at helping patients with Parkinson's disease. **(React.js, React Native, and C#)**
 
-In the past, I have built projects with **JavaScript**, **React.js**, and **Ruby on Rails**.
+Most of my experience is building with **JavaScript**, **React.js**, and **Ruby on Rails**.
 
 Other Areas of Interest: Express.js, Node.js, wood-working, postgreSQL, camping, sketching, NoSQL, MongoDB, music(anything from Bach up to and including 80's hair metal), hockey, BootStrap, SaSS, geocaching, film-making
 
